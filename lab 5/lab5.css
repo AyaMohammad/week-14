@@ -1,0 +1,86 @@
+body {
+    background-color: gray;
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    text-align: center;
+    margin: 20px auto;
+    background-color: rgb(201, 201, 33);
+    padding: 20px;
+    width: 800px;
+    height: 250px;
+    z-index: 1;
+}
+
+#word {
+    position: relative;
+    text-align: center;
+    margin: 20px auto;
+    background-color: white;
+    padding: 20px;
+    width: 800px;
+    height: 150px;
+    top: -20px;
+    z-index: 1;
+}
+
+.button1 {
+    position: relative;
+    background-color: white;
+    color: black;
+    margin: 5px;
+    width: 100px;
+    height: 100px;
+    padding: 30px 25px;
+    top: 300px;
+    z-index: 2;
+    border: 3px solid black;
+}
+
+.wordbarUP input[type=text] {
+    position: relative;
+    top: -500px;
+    left: 650px;
+    text-align: center;
+    padding: 6px;
+    margin: 20px auto;
+    border: none;
+    font-size: 17px;
+}
+
+.wordbarUP h2{
+    position: relative;
+    top: -435px;
+    left: 520px; 
+} 
+
+.wordbarDOWN input[type=text] {
+    position: relative;
+    top: -560px;
+    left: 650px;
+    text-align: center;
+    padding: 6px;
+    margin: 20px auto;
+    border: none;
+    font-size: 17px;
+}
+
+.wordbarDOWN h2{
+    position: relative;
+    top: -495px;
+    left: 420px; 
+} 
+
+.button button{
+    background-color: rgb(90, 62, 62);
+    color: gray;
+    height: 50px;
+    width: 200px;
+
+    position: relative;
+    top: -550px;
+    left: 650px;
+    z-index: 2;
+}

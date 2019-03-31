@@ -1,0 +1,29 @@
+#body{
+    background-color: grey;
+}
+
+#container{
+    background-color: white;
+    margin: auto 400px auto;
+    margin: center;
+    padding: 30px;
+}
+#button1{
+    padding: 15px 50px ;
+    background-color: green;
+    text-align: center;
+    color: white;
+}
+#button2{
+    padding: 15px 50px ;
+    background-color: red;
+    text-align: center;
+    color: white;
+}
+
+#button3{
+    padding: 15px 50px ;
+    background-color: blue;
+    text-align: center;
+    color: white;
+}

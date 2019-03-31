@@ -1,0 +1,204 @@
+body{
+    background-image: url("bb.jpg");
+    background-repeat: no-repeat;
+    background-size: 1400px 1400px;
+
+    background-color: black;
+
+    width: 1000px;
+}
+
+h1 {
+	text-align: center;
+    margin-left: 320px;
+    font-size: 80px;
+    color: wheat;
+}
+
+.player{
+    position: relative;
+    left: 700px;
+    top: -30px;
+
+    font-size: 34px;
+    color: royalblue;
+}
+
+p.denk {
+	text-align: center;
+    margin-left: 270px;
+    margin-top: -40px;
+    font-size: 30px;
+    color: #B40431;
+}
+
+#eerste {
+    position: relative;
+    top: 80px;
+    left: 430px;
+
+	font-size: 40px;
+	display: inline-block;
+	border: 1px solid #A9A9A9;
+	padding-top: 28px;
+	padding-bottom: 29px;
+	padding-left: 42px;
+    padding-right: 42px;
+    width: 20px;
+	height: 50px;
+}
+
+.kans{
+    text-align: center;
+}
+
+p.woordraad {
+    position: relative;
+    top: 600px;
+    font-size: 50px;
+}
+
+p.raad {
+    position: relative;
+    top: 600px;
+    font-size: 50px;
+}
+
+.container{
+    position: relative;
+    bottom: 50px;
+    left: 38%;
+}
+
+input{
+    background-color: #6E6E6E;
+    width: 100px;
+    height: 100px;  
+    text-align: center;
+    font-size: 40px;  
+    margin: 2px;
+}
+#row6box0, #row6box1, #row6box2, #row6box3, #row6box4{
+    background-color: #B40431;
+}
+
+.knop1{
+    position: relative;
+    top: -620px;
+    left: 545px;
+
+    height: 50px;
+    width: 100px;
+
+    background-color: #B40431;
+}
+
+.knop2{
+    position: relative;
+    top: -505px;
+    left: 445px;
+
+    height: 50px;
+    width: 100px;
+
+    background-color: #B40431;
+}
+
+.knop3{
+    position: relative;
+    top: -400px;
+    left: 345px;
+
+    height: 50px;
+    width: 100px;
+
+    background-color: #B40431;
+}
+
+.knop4{
+    position: relative;
+    top: -290px;
+    left: 245px;
+
+    height: 50px;
+    width: 100px;
+
+    background-color: #B40431;
+}
+
+.knop5{
+    position: relative;
+    top: -180px;
+    left: 145px;
+
+    height: 50px;
+    width: 100px;
+
+    background-color: #B40431;
+}
+
+/* zes letter lingo */
+.zesletterlingo{
+    position: relative;
+    bottom: 50px;
+    left: 21%;
+}
+
+#zesletter-row6box0, #zesletter-row6box1, #zesletter-row6box2, #zesletter-row6box3, #zesletter-row6box4, #zesletter-row6box5{
+    background-color: #5F4C0B;
+}
+
+.knop_zesletterlingo1{
+    position: relative;
+    top: -620px;
+    left: 650px;
+
+    height: 50px;
+    width: 100px;
+
+    background-color: #B40431;
+}
+
+.knop_zesletterlingo2{
+    position: relative;
+    top: -505px;
+    left: 550px;
+
+    height: 50px;
+    width: 100px;
+
+    background-color: #B40431;
+}
+
+.knop_zesletterlingo3{
+    position: relative;
+    top: -400px;
+    left: 450px;
+
+    height: 50px;
+    width: 100px;
+
+    background-color: #B40431;
+}
+
+.knop_zesletterlingo4{
+    position: relative;
+    top: -290px;
+    left: 350px;
+
+    height: 50px;
+    width: 100px;
+
+    background-color: #B40431;
+}
+
+.knop_zesletterlingo5{
+    position: relative;
+    top: -180px;
+    left: 250px;
+
+    height: 50px;
+    width: 100px;
+
+    background-color: #B40431;
+}
